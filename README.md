@@ -1,5 +1,5 @@
 # Apk-Bypass-Samsung-McAfee-Security
-Apk Bypass Samsung McAfee Security
+Apk Bypass Samsung McAfee Security.
 Apk 绕过 Samsung McAfee Security.
 
 
